@@ -1,0 +1,82 @@
+.compare-table-wrapper {
+  overflow-x: auto;
+}
+
+.compare-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--surface-color);
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.compare-table th, .compare-table td {
+  padding: 20px;
+  border: 1px solid var(--border-color);
+  text-align: center;
+  min-width: 250px;
+}
+
+.compare-table th {
+  background-color: var(--background-color);
+  font-weight: 600;
+  color: var(--text-color);
+  text-align: left;
+  min-width: 150px;
+  width: 20%;
+}
+
+.compare-item-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.compare-item-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: var(--border-radius-sm);
+}
+
+.compare-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.compare-title:hover {
+  color: var(--primary-color);
+}
+
+.compare-price {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: var(--primary-color);
+}
+
+.remove-compare {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background-color: white;
+  color: var(--error-color);
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-sm);
+}
+
+.remove-compare:hover {
+  background-color: #ffebee;
+}

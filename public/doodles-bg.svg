@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <g fill="none" stroke="#222" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.06">
+    <!-- Cat -->
+    <g transform="translate(30, 40) scale(0.6)">
+      <path d="M20,40 Q15,10 40,25 Q50,20 60,25 Q85,10 80,40 Q85,60 50,75 Q15,60 20,40 Z"/>
+      <circle cx="38" cy="42" r="2" fill="#222" stroke="none"/>
+      <circle cx="62" cy="42" r="2" fill="#222" stroke="none"/>
+      <path d="M48,50 L52,50 L50,53 Z" fill="#222" stroke="none"/>
+      <path d="M30,52 Q40,54 45,52 M70,52 Q60,54 55,52" stroke-width="2"/>
+    </g>
+    <!-- Bone -->
+    <g transform="translate(180, 20) scale(0.7)">
+      <path d="M25,45 Q20,35 30,35 Q40,35 35,45 L65,45 Q60,35 70,35 Q80,35 75,45 Q80,55 70,55 Q60,55 65,45 L35,45 Q40,55 30,55 Q20,55 25,45 Z"/>
+    </g>
+    <!-- Paw -->
+    <g transform="translate(100, 150) scale(0.5)">
+      <circle cx="35" cy="35" r="5"/>
+      <circle cx="50" cy="27" r="6"/>
+      <circle cx="65" cy="35" r="5"/>
+      <path d="M32,60 C32,48 68,48 68,60 C68,72 32,72 32,60 Z"/>
+    </g>
+    <!-- Fish -->
+    <g transform="translate(220, 140) scale(0.6)">
+      <path d="M15,50 L85,50 M30,30 L30,70 M45,35 L45,65 M60,38 L60,62 M75,42 L75,58 M15,50 L25,40 M15,50 L25,60 M85,50 L75,42 M85,50 L75,58"/>
+    </g>
+    <!-- Bird -->
+    <g transform="translate(20, 210) scale(0.7)">
+      <path d="M25,55 C25,40 45,30 60,40 C65,45 75,45 80,42 C78,50 72,55 60,55 C45,55 35,65 25,55 Z"/>
+      <path d="M45,55 L40,70 M55,55 L58,70"/>
+      <circle cx="52" cy="43" r="2" fill="#222" stroke="none"/>
+      <path d="M60,42 L65,44 L60,46" fill="#222" stroke="none"/>
+    </g>
+    <!-- Bowl -->
+    <g transform="translate(150, 240) scale(0.6)">
+      <path d="M20,65 L80,65 C78,78 22,78 20,65 Z M30,65 C30,45 70,45 70,65"/>
+    </g>
+  </g>
+</svg>
