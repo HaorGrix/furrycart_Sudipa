@@ -37,7 +37,8 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 | | Contributor | GitHub | Lines added | Commits |
 | :---: | :--- | :--- | ---: | ---: |
 |  | **sudipabiswas** | — | 6,218 | **5** |
-| | | **Total** | **6,218** | **5** |
+| <img src="https://github.com/MusfiqurTuhin.png?size=48" width="34" height="34" alt="" /> | **MusfiqurTuhin** | [@MusfiqurTuhin](https://github.com/MusfiqurTuhin) | 149 | **1** |
+| | | **Total** | **6,367** | **6** |
 <!-- CONTRIBUTORS:END -->
 
 <sub>Auto-updated on every push to `main` by [`.github/workflows/contributors.yml`](.github/workflows/contributors.yml) — commits + lines-added per author via `git shortlog` / `git log --numstat` (identities in [`.mailmap`](.mailmap); merges & lockfiles excluded).</sub>
